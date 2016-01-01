@@ -1,0 +1,27 @@
+<linkCESERequest xmlns="http://xmlns.fedex.com/CVM"
+	majorVersion="3" minorVersion="5" preview="false">
+	<employeeId>488434</employeeId>
+	<sourceSystem>CESE</sourceSystem>
+	<externalEventId>0</externalEventId>
+	<linkRequestItem>
+		<linkInstructions rejectInstructions="false">
+			<customerObjectId>
+				<id requestLocal="false">290033</id>
+			</customerObjectId>
+			<currentAncestorObjectID>
+				<id requestLocal="false">1367253</id>
+			</currentAncestorObjectID>
+			<currentCustomerView>
+				<model>CESE</model>
+				<view>CORE</view>
+			</currentCustomerView>
+			<targetAncestorObjectID>
+				<id requestLocal="false">9837146</id>
+			</targetAncestorObjectID>
+			<targetCustomerView>
+				<model>CESE</model>
+				<view>CORE</view>
+			</targetCustomerView>
+		</linkInstructions>
+	</linkRequestItem>
+</linkCESERequest>
