@@ -1,7 +1,7 @@
 package com.study.problems;
 
-import com.fedex.datastructures.BinarySearchTree;
-import com.fedex.datastructures.TreeNode;
+import com.study.datastructures.BinarySearchTree;
+import com.study.datastructures.TreeNode;
 
 public class PrintTreeNodesInSpiralOrder {
 	

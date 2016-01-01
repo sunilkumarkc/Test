@@ -1,7 +1,7 @@
 package com.study.problems;
 
-import com.fedex.datastructures.LinkedList;
-import com.fedex.datastructures.Node;
+import com.study.datastructures.LinkedList;
+import com.study.datastructures.Node;
 
 public class ReverseLinkedListInGroup {
 
