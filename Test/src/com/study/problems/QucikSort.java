@@ -20,6 +20,7 @@ public class QucikSort {
 			return arr;
 		}
 		int pivot = arr[high];
+		System.out.println("Pivot - "+pivot);
 		int partition = partition(arr, low, high, pivot);
 		arr = quickSort(arr, low, partition - 1);
 		arr = quickSort(arr, partition + 1, high);
